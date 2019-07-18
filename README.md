@@ -33,8 +33,9 @@ Be sure to have the following installed:
 To run the web app itself, perform the following steps:
 
   1)  Once the repo has been cloned and above steps have been followed, ensure mongod is running on server
-  2)  In terminal, in 'server' folder, use command 'run server:dev' -- api is hosted on localhost:3000/api/flights
-  3)  Then use use command 'npm start' this will run front end on localhost:8080
+  2)  In terminal, in both server and client folders, run 'npm install' to install dependencies
+  3)  In terminal, in 'server' folder, use command 'run server:dev' -- api is hosted on localhost:3000/api/flights
+  4)  Then use use command 'npm start' this will run front end on localhost:8080
   
 
   
