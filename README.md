@@ -1,5 +1,9 @@
 # flight-info-full-stack-react-node
 
+Web App to fetch flight data from external API and sort data.
+
+
+
 For this web app I have used MongoDb as the database.  
 
 To seed the database, use the following steps:
